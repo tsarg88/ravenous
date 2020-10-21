@@ -1,7 +1,7 @@
 import React from "react";
 import "./Business.css";
 
-business = {
+const business = {
   imageSrc: "https://content.codecademy.com/programs/react/ravenous/pizza.jpg",
   name: "MarginOtto Pizzeria",
   address: "1010 Paddington Way",
